@@ -10,3 +10,6 @@ commonLabels:
 
 resources:
   - ../../../apps/xnem-ambulance-ufe
+
+components:
+  - ../../../components/version-developers
